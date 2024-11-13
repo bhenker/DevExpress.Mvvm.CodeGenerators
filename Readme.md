@@ -112,6 +112,12 @@ Prepare your project as outlined below to enable support for View Models generat
  
 * [How to: Use View Models Generated at Compile Time](https://github.com/DevExpress-Examples/ViewModelGenerator-Sample)
 
+## Notes on Version Updates and Compatibility
+
+Updates for the DevExpress.Mvvm.CodeGenerators NuGet package are released independently of the DevExpress component suite release cycle. We do not set specific release dates; we publish a new version when we fix reported issues.     
+
+The version number for the DevExpress.Mvvm.CodeGenerators package does not need to match that of DevExpress components. The latest available versions are compatible.
+
 ## Release Notes
 
 ### 22.1.0 
